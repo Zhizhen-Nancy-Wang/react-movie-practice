@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: cornflowerblue;
+}
+.header {
+  font-size: 40px;
+  text-align: center;
+  margin: 40px;
+}
